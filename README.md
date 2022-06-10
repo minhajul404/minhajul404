@@ -1,4 +1,4 @@
-### Hello, I am Minhajul Islam
+### Hello, I am Minhajul Islam.
 
 <!--
 **MINHAJUL-ISLAM-BRACU/MINHAJUL-ISLAM-BRACU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
