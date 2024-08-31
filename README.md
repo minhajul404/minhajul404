@@ -25,7 +25,7 @@
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaiadul&repo=your-repo&theme=dark)](https://github.com/shaiadul/your-repo)
 
 ## 📊 GitHub Contributions:
-![Shaiadul's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=shaiadul&theme=react-dark&hide_border=true&area=true)
+![minhajul's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=shaiadul&theme=react-dark&hide_border=true&area=true)
 
 ## 🏆 GitHub Achievements:
 ![](https://github-profile-trophy.vercel.app/?username=shaiadul&theme=darkhub&margin-w=15&margin-h=15)
