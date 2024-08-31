@@ -2,7 +2,7 @@
   <img height="250" src="https://i.ibb.co/2nPgs8t/Green-Business-Coach-Wor-Place-Linkedin-Banner.png" />
 </div>
 
-<h1 align="center">Md Saidul Basar Bappy</h1>
+<h1 align="center">MInhajyl ISlam</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%">
