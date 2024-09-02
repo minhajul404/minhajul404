@@ -31,4 +31,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=shaiadul&theme=darkhub&margin-w=15&margin-h=15)
 
 ---
-⭐️ From [Minhajul](https://github.com)
+⭐️ From [Minhajul](https://github.com/minhajul404/)
