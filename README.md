@@ -22,7 +22,7 @@
 - 💼 Collaborating with the open-source community
 
 ## 📌 Pinned Projects:
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaiadul&repo=your-repo&theme=dark)](https://github.com/shaiadul/your-repo)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaiadul&repo=your-repo&theme=dark)](https://github.com)
 
 ## 📊 GitHub Contributions:
 ![minhajul's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=shaiadul&theme=react-dark&hide_border=true&area=true)
