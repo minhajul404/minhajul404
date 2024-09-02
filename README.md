@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="" />
+  
 </div>
 
 <h1 align="center">Minhajul Islam</h1>
