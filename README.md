@@ -1,13 +1,24 @@
 <div align="center">
 
-# Hi 👋 I'm Minhajul Islam
+# Hi 👋, I'm Minhajul Islam
 
 ### Software Engineer | Full Stack Developer
 
-I build modern, scalable web applications with a focus on clean code, performance, and user experience.
+Building scalable, user-centric web applications with modern technologies.
 
-[LinkedIn](https://linkedin.com/in/minhajul-islam) •
-[Email](mailto:minhajulislam1304@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/minhajul-islam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:minhajulislam1304@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/minhajul404?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 </div>
 
@@ -16,69 +27,116 @@ I build modern, scalable web applications with a focus on clean code, performanc
 ## 👨‍💻 About Me
 
 - 💼 Junior Software Engineer at **Best Electronics Ltd.**
-- 🌱 Currently learning **TypeScript, Docker, AWS, and System Design**
-- 💡 Interested in Full Stack Development, Software Architecture, and AI
-- 🚀 Passionate about building scalable and user-friendly web applications
-- 🤝 Open to collaboration on meaningful open-source projects
+- 🚀 Passionate about building scalable web applications
+- 🌱 Currently exploring **TypeScript**, **Docker**, **AWS**, and **System Design**
+- 💡 Interested in Software Architecture, Full Stack Development, and AI
+- 🤝 Open to collaboration on innovative and open-source projects
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Languages
 
-### Languages
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![PHP](https://skillicons.dev/icons?i=php)
-
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-### Backend
-
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![Django](https://skillicons.dev/icons?i=django)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-
-### Database & Tools
-
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## 🎨 Frontend
 
-- 💼 LinkedIn: https://linkedin.com/in/minhajul-islam
-- 📧 Email: minhajulislam1304@gmail.com
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
+</p>
 
 ---
 
-> *"I enjoy turning ideas into reliable, scalable software through continuous learning and clean engineering practices."*
+## ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,laravel,express" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,npm,vite" />
+</p>
+
+---
+
+## 🎯 What I'm Currently Working On
+
+- Building enterprise web applications with **Next.js**
+- Developing reusable UI components
+- Implementing secure authentication systems
+- Optimizing application performance
+- Writing clean, maintainable, and scalable code
+
+---
+
+## 📚 Currently Learning
+
+- TypeScript
+- Docker
+- AWS
+- System Design
+- Software Architecture
+
+---
+
+## 💡 Engineering Principles
+
+- Clean Code
+- Component-Driven Development
+- Performance Optimization
+- Accessibility First
+- Responsive Design
+- Continuous Learning
+
+---
+
+## 🤝 Open To
+
+- Open Source Contributions
+- Full Stack Development
+- Frontend Engineering
+- Technical Discussions
+- Collaboration Opportunities
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:minhajulislam1304@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://linkedin.com/in/minhajul-islam">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Great software is built through continuous learning, thoughtful design, and attention to detail."*
+
+</div>
